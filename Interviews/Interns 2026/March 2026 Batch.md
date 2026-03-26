@@ -47,6 +47,12 @@
 	+ Washington
 	+ PCB design experience
 	+ **Interview**
+		+ Wants to go into PCB board design
+		+ Made a couple of boards for a Mars rover
+			+ Brushless motor design
+			+ gate driver
+			+ hard time answering high side and low side on at the same time
+		+ Good - In general
 + Sanjay Ravishankar
 	+ Limited demonstrated PCB experience
 + Cindy Sun
