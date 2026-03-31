@@ -45,7 +45,11 @@
 	+ **Interview**
 		+ 3/31/26 - What is a robot - Physical component with software component
 		+ Battlebots - 500g - Small team - 3D printed body, EE,ME,SW
-		+ 
+			+ Believe someone provided the schematic for the board he designed
+		+ LED power how to turn it on
+			+ Struggled with question...No schematic experience
+			+ Tough as a first year
+			+ 
 + Aditya Manivel
 	+ Washington
 	+ PCB design experience
