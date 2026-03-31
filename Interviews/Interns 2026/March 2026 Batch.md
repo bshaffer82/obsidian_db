@@ -43,6 +43,9 @@
 	+ BHS
 	+ Sophmore
 	+ **Interview**
+		+ 3/31/26 - What is a robot - Physical component with software component
+		+ Battlebots - 500g - Small team - 3D printed body, EE,ME,SW
+		+ 
 + Aditya Manivel
 	+ Washington
 	+ PCB design experience
