@@ -14,6 +14,12 @@
 	+ Cable tester
 	+ Testing
 	+ **Interview**
+		+ Line following - game of life
+			+ Photoresistor - to detect line
+			+ Went to Arduino - Analog pins - 
+				+ Not really sure how an ADC worked
+				+ Junior - wants to do hardware but is pretty weak
+				+ 
 + Lin Anthony
 	+ EE/CE 
 	+ Board design
