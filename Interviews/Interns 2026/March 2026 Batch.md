@@ -72,3 +72,62 @@
 	+ Limited experience outside of an educational environment
 + Brandon Sung
 	+ Overly stated accomplishments
+
+
+Arianne Fong
+-EE Hardware design is preferred
+  + Limited explanation of flyback converter
+  +Limited PID tuning
+ 
+Jackie Li
+ -Linked in - meaningful work
+ -Communication is difficult
+ -Didn't really look at the website before meeting
+    + Sophomore - EE classes - AM radio
+
+    + SuperHetrodyne Radio?
+	- Looked up the answer
+        - 
+
+    + Spaceshot hardware circuit - What parts did you design? 
+	+ Flight computer new revision - smaller
+        + GPIO expansion modules
+        + ESP32 3.3V
+        + 5V logic - level shift IC
+	
+    + Schematic capture and PCB design
+   
+    +STM32 
+
+Andy Gao
+  - Looked at Deka for medical devices field
+  - Drug delivery / dialysis
+  - 
+  +3 led ECG and designed PCB INA (instrument amp to Arduino to LCD screen)
+  +Schematic in Altium ->PCB design->Assembly
+  + Other person did software
+  + Self guided requirements
+     +Portable
+  +Issues: Weak signals amplifications
+  +Battery choice: 
+     -LiPo
+     -LDO regulator
+  + Graduation December 2027
+  + Flight system - Rocket
+      - Designed sensor board
+  + Best so far technically
+
+Preston King
+  + Well spoken
+  + Handshake -> like the work as an embedded systems engineer
+  + Preference between Electrical Engineering (Board Design) vs Computer Engineering
+      - Firmware side - Hardware side design
+      - **Will want to know what he wants to do in the future**
+      - 
+  + Project outside of a class project 
+      - Metasystems design for MP3 player
+      - Battery charging: 
+      - Who did the PCB design: 4 people - 
+      - Spreadsheet for coordination
+      - Dedicated IC for lithium battery charging
+  + Strong Embedded Candidate....Good for Eitan / Mike
