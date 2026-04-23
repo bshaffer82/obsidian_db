@@ -131,3 +131,13 @@ Preston King
       - Spreadsheet for coordination
       - Dedicated IC for lithium battery charging
   + Strong Embedded Candidate....Good for Eitan / Mike
+
+Dylan Jacobs
++ Limited PCB layout PCB power supply
++ Off the shelf buck converter with POT connected
++ Remembered the part number LM2956
+	+ Turns off this an off the shelf part did he really do a layout?
+	+ Logic gates with MOSFET
+	+ Resistors were getting hot due to small resistors
++ May 25th -> August Middle
++ 
